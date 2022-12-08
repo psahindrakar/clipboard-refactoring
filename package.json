@@ -1,0 +1,23 @@
+{
+  "name": "clipboard-refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psahindrakar/clipboard-refactoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psahindrakar/clipboard-refactoring/issues"
+  },
+  "homepage": "https://github.com/psahindrakar/clipboard-refactoring#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
